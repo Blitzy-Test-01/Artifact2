@@ -1,8 +1,12 @@
-# Dependencies
+# Dependencies - installed by `npm install`, never committed.
+# Reproducible installs are guaranteed by the tracked package-lock.json instead.
 node_modules/
 
-# npm debug logs
+# Debug logs emitted by npm/yarn/pnpm on a failed command.
 npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
 
-# Environment variable files (optional PORT override, etc.)
+# Environment variable files (e.g., the optional PORT override read by server.js).
 .env
