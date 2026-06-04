@@ -1,0 +1,7 @@
+# Node.js dependencies installed by npm (should not be committed)
+
+node_modules/
+
+#### npm debug logs
+
+npm-debug.log*

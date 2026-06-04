@@ -1,0 +1,15 @@
+{
+  "name": "artifact2",
+  "version": "1.0.0",
+  "description": "Node.js HTTP server built with Express that serves greeting endpoints.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
